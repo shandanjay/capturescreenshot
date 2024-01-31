@@ -1,0 +1,41 @@
+repo_name: shandanjay/capturescreenshot
+report_id: 7b571d1b7f958d21513e7dc0ec64c25c
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T14:26:14+00:00'
+requested_by: shandanjay
+provider: github
+branch: master
+detected_tools_count: 3
+tools:
+- name: Clojure
+  description: A dynamic programming language that targets the Java Virtual Machine
+  website_url: http://clojure.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1003/Clojure_300x300.png
+  detection_source_url: https://github.com/shandanjay/capturescreenshot
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/shandanjay/capturescreenshot
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/shandanjay/capturescreenshot
+  detection_source: Repo Metadata
